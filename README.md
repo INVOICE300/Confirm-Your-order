@@ -4,7 +4,7 @@ This is a confirmation that a payment of $359.99 USD has been successfully proce
 
 Invoice Details:
 
-Invoice Number: #INV-LD9-hgD-DSA
+Invoice Number: #INV-LD9-SDgD-DSA
 Product: Norton 360 LifeLock
 Plan: 1-Year Subscription
 
